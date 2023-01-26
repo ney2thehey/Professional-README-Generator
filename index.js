@@ -45,7 +45,7 @@ const generateHTML = ({ github, email, title, description, license, installation
   --
   ## Additional Links
   * Github: [${github}](https://github.com/${github})
-  * Email:${github}
+  * Email:${email}
   `
 }
   

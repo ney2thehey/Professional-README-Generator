@@ -1,37 +1,37 @@
 
-  # test
+  # Professional README Generator
 
   ## Description
 
-  test
+  quickly and easily generate a README file by using a command-line application to generate one. This allows the project creator to devote more time working on the project.
 
 
   ## Table of Contents 
   - [Description](#description)
   - [Installation](#installation)
-  - [Usage](test)
-  - [Test](#Test)
+  - [Usage](#usage)
+  - [Test](#test)
   - [Additional links](#additional-links)
 
 
   ## Installation
-  tes
+  npm i
 
   ## Usage
-  test
+  n/s
 
 
   ## Liscense 
   ![Github License](https://img.shields.io/badge/license-MIT-blue.svg)
 
   ## Contributing
-  tes
+  n/a
 
   ## Test
   npm test
 
   --
   ## Additional Links
-  * Github: [tst](https://github.com/tst)
-  * Email:tst
+  * Github: [ney2thehey](https://github.com/ney2thehey)
+  * Email:shetty.saineha@gmail.com
   
