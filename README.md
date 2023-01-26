@@ -18,7 +18,7 @@
   npm i
 
   ## Usage
-  n/s
+  n/a
 
 
   ## Liscense 
